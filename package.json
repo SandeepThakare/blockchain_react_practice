@@ -1,0 +1,19 @@
+{
+  "name": "blockchian_react_practice",
+  "version": "1.0.0",
+  "description": "A blockchain project with reactjs and deployed on rinkeby network",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepThakare/blockchain_react_practice.git"
+  },
+  "author": "Sandeep Thakare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeepThakare/blockchain_react_practice/issues"
+  },
+  "homepage": "https://github.com/SandeepThakare/blockchain_react_practice#readme"
+}
